@@ -1,0 +1,28 @@
+h1{
+    color: darkred;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    font-size: 3rem;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    text-align: left;
+}
+.h2{
+    color: darkred;
+    font-size: 1.8rem;
+}
+.textInside{
+    color: orangered;
+    font-size: 1.5rem;
+
+}
+.Image{
+    width: 140px;
+}
+.numeredList{
+    font-size: 1.5rem;
+    color: orangered;
+}
