@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<catalog>
+    <book hasDiscount = "true">
+        <title> Title 1 </title>
+        <author> Author 1 </author>
+        <pages> 134 </pages>
+        <years> 2010 </years>
+        <price> 3123 rub </price>
+        
+    </book>
+    <book>
+        <title> Title 2 </title>
+        <author> Author 2 </author>
+        <pages> 131 </pages>
+        <years> 2040 </years>
+        <price> 3423 rub </price>
+        <hasDiscount> true </hasDiscount> 
+    </book>
+    <book>
+        <title> Title 3 </title>
+        <author> Author 3 </author>
+        <pages> 334 </pages>
+        <years> 2015 </years>
+        <price> 1123 rub </price>
+    </book>
+    <book>
+        <title> Title 4 </title>
+        <author> Author 4 </author>
+        <pages> 124 </pages>
+        <years> 2020 </years>
+        <price> 35123 rub </price>
+    </book>
+
+</catalog>

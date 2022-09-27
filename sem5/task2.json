@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Aplle",
+        "weight":1000,
+        "group":"fruits",
+        "price":150,
+        "storage":1
+    },
+    {
+        "name": "Aplle1",
+        "weight":12000,
+        "group":"f3ruits",
+        "price":1450,
+        "storage":12
+    }
+]
+
+{
+    "name": "Name",
+    "surname": "Surname",
+    "links":{
+        "vk": "link",
+        "yt": "link"
+    },
+    "photos":{
+        "any": "any",
+        "any2": "any2"
+    },
+    "any":[
+        "any",
+        "any",
+        "any"
+    ],
+    "age": 23,
+    "children": null,
+    "married": false,
+}

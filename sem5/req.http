@@ -1,0 +1,3 @@
+GET url https://example.com/comments/1
+###
+GET https://nalog.ru
